@@ -1,5 +1,4 @@
-# DCA
-Does Dollar Cost Averaging Work?
+# Does Dollar Cost Averaging Work?
 This repository contains the codes used to generate the analyses made in my Medium article.
 
 dividends.csv contains the STI dividends data obtained from https://www.dividends.sg/view/ES3
